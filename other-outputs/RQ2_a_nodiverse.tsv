@@ -1,0 +1,98 @@
+	query	id	text	user	likes	retweets	hashtags	cluster	score
+0	covid	1330157579541106689	@a681cf9f-b27d-530b-878c-d216518ba80c Covid Covid Covid Covid!	40af6ae1-a0f6-5889-8021-dd8fcbf59324	0	0	[]	9	2.4693048309852133
+1	covid	1330161590784692237	"RT @983740bc-166f-59c8-8415-006fb46494f0: Covid this covid that....
+Can we talk about ME now?????"	72d95870-ef1b-53c8-93a1-a95ba950bed7	0	0	[]	6	2.078229694571375
+2	covid	1330157034428362752	RT @a8d42d10-0402-5264-a093-ca27d514c560: is it allergies or is it covid? is it a stress migraine or is it covid? is it anxiety or is it covid?	1ab132c0-8203-5b19-817a-309b03ceca2d	0	0	[]	6	2.040781047188203
+3	covid	1330178330474278920	"@3f6a872d-2ae4-5353-a1e6-2af15738df62 @618a9f66-6c76-5418-acd8-7a2548669500 @3ffaf75c-afda-5ca5-89ad-d5df7357ccf2 Didn't he say ""COVID, COVID, COVID, COVID"" would disappear after the e… https://t.co/e20EGtOi1V"	2b9f8e1f-2dde-55aa-a746-af82863c81dd	0	0	[]	6	2.0362409280000002
+4	covid	1330183627699875840	@02e6fb19-6e6e-5b3a-977b-14c8000d52d1 Who cares, COVID, COVID, COVID, remember?  You can't be bothered, you ain't got no time for that.… https://t.co/9ElyH36JPS	dcbfcb5a-17be-5a5f-8c00-69c97f868a22	0	0	[]	6	1.7997997103979857
+5	covid	1330166242863439880	"Hello, can everyone please take COVID seriously! This baby has been orphaned because of COVID! 
+COVID IS REAL AND I… https://t.co/Nz8oKr87qt"	1bafcb56-50a2-5a76-b1cb-f547fbad3503	6557	802	[]	6	1.7997997103979857
+6	covid	1330184216198455301	@0f5b08ed-e297-5d0b-8d36-370d278aad58 Covid	073d5c1a-1077-5eea-9dda-4e551111b38a	0	0	[]	9	1.7997997103979853
+7	covid	1330160402601283586	TWAT - #COVID	be1188c9-8b2b-53ea-84d8-45f848b58b89	184	45	['COVID']	9	1.7997997103979853
+8	covid	1330184221827223555	Ask covid	c87760c0-75cd-50b2-9a95-aa1c557c71d4	2	3	[]	6	1.7997997103979853
+9	covid	1330180347754115074	Is this not Covid szn ?	a5608121-83ce-5ec1-9419-beeb92982060	0	0	[]	9	1.7997997103979853
+10	covid	1330172771285020673	@9e05d6d9-fe32-52a5-8cfb-f2ba08a0f531 covid	0ae5a10a-e44d-525b-96b4-2242b59df103	0	0	[]	9	1.7997997103979853
+11	covid	1330169097427046402	@0c4f049c-4052-5145-8ddc-38bfcf44250f COVID 😂😂😂	0465a6ae-2c52-5ebf-92f9-0132d5f5fed0	0	0	[]	9	1.7997997103979853
+12	covid	1330181241476427780	@96a3ba37-139f-5110-85b4-ce493de1a1a6 All had covid	12d7dc3b-af9c-5dae-9978-2a592405129d	0	0	[]	6	1.7997997103979853
+13	covid	1330175355861291016	fuck covid	81fe9815-7dc4-51ff-b4af-a9ee41472835	0	0	[]	6	1.7997997103979853
+14	covid	1330165502476509184	@c8ff8c84-9569-511d-a863-82c21228013a Covid!	85eeb45b-ac93-512c-ad06-47dd2e4489a5	0	0	[]	9	1.7997997103979853
+15	covid	1330174745430675456	@7dcef19f-e52c-5786-842b-64ef19049740 Covid	1c71e5d9-d054-5101-945e-3238f2ba56c6	0	0	[]	9	1.7997997103979853
+16	covid	1330168789066014721	RT @52fe282a-cdb8-564f-8e23-3f4eadd67904: So he is covid	2d33104f-43f9-5aa5-b314-2aeef48594e5	124875	23930	[]	9	1.7997997103979853
+17	covid	1330169122508972033	@929fd26e-a4d1-5d28-8499-b3f4c3e88bb1 did you have covid?	0be0be74-da4e-5e58-93c9-6348c3272ba2	0	0	[]	6	1.7997997103979853
+18	covid	1330181250229919748	@56575a5e-ca94-535c-a0bb-3ca46619e01c Of COVID?	cb67a283-16da-5397-97ac-f9d35a8b2528	0	0	[]	9	1.7997997103979853
+19	covid	1330172805024002049	Me with covid: https://t.co/7M4DuVXFrT	93447d70-1080-57bf-b6c8-aa6bd66edf2c	0	0	[]	9	1.7997997103979853
+0	mask	1330160161772670976	Mask or No Mask?	02697e6d-a2fb-5349-bad6-710a69990d0b	0	0	[]	2	13.47550681
+1	mask	1330166312287526915	Mask Up!	7a2f1e2e-384f-5615-971a-209548b07837	155	22	[]	2	13.47550681
+2	mask	1330172787701506050	RT @6155ae60-2edc-5dcd-b9c9-a09465731907: MASKS WORK. WEAR A MASK.	7990f8f8-6d0a-51f1-8160-5297b78be83f	2228	1043	[]	2	10.186525659947806
+3	mask	1330157589620023297	Wear a mask!	332f434a-69d2-5b5f-86ac-554d152ff64a	62	42	[]	2	9.5286222452765
+4	mask	1330166326564950017	Just wear the mask.	ce8c4705-b764-5e70-b82d-df438ae78cae	2	1	[]	2	9.5286222452765
+5	mask	1330183694666043394	"Cloth masks, disposable masks, most masks don't protect against Covid whether you wear them ""correctly"" or not. Cov… https://t.co/pKWovjbuRX"	ecc59748-6e8d-5c3a-8ed5-416cd9589990	0	0	[]	2	9.274479852281706
+6	mask	1330184237887213568	"RT @ecc59748-6e8d-5c3a-8ed5-416cd9589990: Cloth masks, disposable masks, most masks don't protect against Covid whether you wear them ""correctly"" or not. Covid is so…"	f2a10ca4-0c50-513b-aeec-f52198c832fa	0	0	[]	2	8.821789997816845
+7	mask	1330173892133007361	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	acf09666-3f18-5e2d-ae4a-cea19f68bf12	55	22	[]	2	8.429512219827812
+8	mask	1330168790378815498	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	5d9fa793-896a-54c8-9758-249399d9cdad	55	22	[]	2	8.429512219827812
+9	mask	1330164589158408193	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	a66c4cf6-213a-5053-beda-12e107736514	53	19	[]	2	8.429512219827812
+10	mask	1330164623430049792	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	d4c3b00b-ccec-504c-a0df-bd95d62efef5	53	19	[]	2	8.429512219827812
+11	mask	1330165440555999233	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	29b43a69-0e7e-5f21-993c-9ad482fd9cf4	53	20	[]	2	8.429512219827812
+12	mask	1330164614693351427	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	e3c920ef-aa61-565f-af1b-8fb000c4059b	53	19	[]	2	8.429512219827812
+13	mask	1330164638726688769	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	2b8f3900-0cf4-58cb-bed0-1a08775cf5df	53	19	[]	2	8.429512219827812
+14	mask	1330175324362055689	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	3da5a8fc-9bf7-5f90-9e2c-bed62f33fa43	55	22	[]	2	8.429512219827812
+15	mask	1330166288249987072	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	df28748e-4457-5aa1-b088-3941dbaee50a	53	21	[]	2	8.429512219827812
+16	mask	1330175336194117634	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	4b97b723-843b-5d36-a263-7bc6b643caf4	55	22	[]	2	8.429512219827812
+17	mask	1330165460017537030	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	713d6351-be32-56d7-a30f-15162a4e8490	53	20	[]	2	8.429512219827812
+18	mask	1330164584565665795	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	fe483e9d-5510-51c0-83c9-ce22e92811bf	53	19	[]	2	8.429512219827812
+19	mask	1330166242255187971	"RT @b8dccf23-2288-50df-92c5-d6c83189240b: Sooooo - @2413e9d5-5281-5498-bfad-b1f0cd743b7b do we get to sue mask makers if we get COVID while wearing a mask?
+The warning labels say that masks…"	dd26f306-ea4a-5f85-be3b-60b4bc12545b	53	21	[]	2	8.429512219827812
+0	trump	1330165437414432768	tRump Vaccine for the tRump Virus	07834142-57cb-5655-8c9c-8e06deda5119	1450	98	[]	7	6.906573571023725
+1	trump	1330164612348735497	Dabo Trump	7373df4f-6285-544d-bcc4-ddc920209b55	2	1	[]	3	5.981268165612753
+2	trump	1330183654925070346	trumps words. It is what it is. 🤣	3101f384-5d0b-5fed-9e3a-4c4021649828	1	0	[]	3	5.981268165612753
+3	trump	1330181291833241604	Trump flu	2e6f063a-3a05-595b-b476-30ccda8b054f	2123	415	[]	3	5.981268165612753
+4	trump	1330180343614349321	@d22026c6-fe3c-5852-aa7f-e96bbf939fd2 Why trump did nothing . Trump let covid spread.	1e428c40-33ec-500b-b389-53b79d8c162d	0	0	[]	3	5.639193706666666
+5	trump	1330160117694803969	"RT @ee21789c-1c0a-557b-b9f3-8b6bec5b5aa2: We Believe in...
+
+2021 Trump Wins
+2021 Trump Cures
+2021 Trump Re-Elected
+2021 Trump Locks Her Up
+2021 Trump Creates Jo…"	4f90797a-d685-55a2-8ede-c61fd7120e87	0	0	[]	3	5.553468073705474
+6	trump	1330169081538949124	"RT @ee21789c-1c0a-557b-b9f3-8b6bec5b5aa2: We Believe in...
+
+2021 Trump Wins
+2021 Trump Cures
+2021 Trump Re-Elected
+2021 Trump Locks Her Up
+2021 Trump Creates Jo…"	af181708-dfd2-5ed8-a7fe-aae72d285a48	0	0	[]	3	5.553468073705474
+7	trump	1330180365089189898	"RT @ee21789c-1c0a-557b-b9f3-8b6bec5b5aa2: We Believe in...
+
+2021 Trump Wins
+2021 Trump Cures
+2021 Trump Re-Elected
+2021 Trump Locks Her Up
+2021 Trump Creates Jo…"	57b180e3-c5de-557f-a232-95e3692b72cb	0	0	[]	3	5.553468073705474
+8	trump	1330165482960392194	"RT @f9b19cb1-403a-5b71-b369-c8eb3cd97120: Trump is twisted. He was NOT trying to prevent panic. Trump was NOT trying to protect people 
+
+Trump had thousands of soci…"	75c62a96-5662-5dc3-92f6-6dded2e543c7	151	120	[]	3	5.537578289853985
+9	trump	1330157019710562305	@02e6fb19-6e6e-5b3a-977b-14c8000d52d1 Does he really have Covid or is it a lie like when you Trump said you had it. Fuck you Trump	f4d7ba3c-503c-5060-8489-8e3cc39aa4b9	0	0	[]	3	5.100842630494588
+10	trump	1330166027716587530	RT @51042606-a613-5775-9676-86ba5ef0316a: All under trump’s presidency.	4abbf2e0-6115-51b3-9562-4f8754665df8	1821	971	[]	3	4.883685006834666
+11	trump	1330160464202960896	Amen. TRUMP said the same!	8673681e-eede-5279-b9cb-c250b68a66b7	10025	3130	[]	3	4.883685006834666
+12	trump	1330181283939495942	RT @1fffef80-c623-5274-95b2-76b7f837b4ac: @32b73720-0885-5195-9226-797a9c1b1728 If anything, we should call the COVID-19 virus after Trump.  Did you come down with the Trump?  Did h…	1218f718-9f9c-576d-9597-711e408dc727	0	0	[]	3	4.883685006834666
+13	trump	1330165485137223680	Thank you, President Trump.	3203a156-9105-53a1-8710-53212ae57a00	3062	611	[]	3	4.883685006834666
+14	trump	1330174764762193932	Another liar for Trump.	82a94077-c931-5581-9573-97fe7d1324c5	2053	990	[]	3	4.883685006834666
+15	trump	1330173876144365578	RT @ceda02f4-d2e9-56e4-a928-1c4141444c20: President Trump says Donald Trump Jr. is doing well after being diagnosed with COVID-19 https://t.co/zzZP27FWIg	dcc8d4ca-161c-568e-8f9f-7272003fc3f7	0	0	[]	7	4.692092783460116
+16	trump	1330175408487149570	President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis https://t.co/vwc1h053Sk https://t.co/ELsXtwxWJ5	9c22f2be-819f-55f7-b054-01c591e0e30d	0	0	[]	7	4.692092783460116
+17	trump	1330172784970960896	"RT @91ffb051-00e2-5021-9031-a5908754f8d2: I appeared on @6f77387d-222a-5b36-a5b9-02ae25fa5a84 and hammered Trump for completely bungling his response to the #CoronavirusOutbreak.
+
+""Trump is g…"	a2d359b4-b18e-5c86-be36-6f7a7acfb734	0	0	['CoronavirusOutbreak']	3	4.692092783460116
+18	trump	1330183676160843783	RT @152b320b-6eda-5645-91ea-75077fcdde5d: Trump gave them rooms at Trump Hotel? Really? This is QUID PRO QUO! https://t.co/9nnsXV5eLI	80377607-c45d-5342-96a4-aefdb6b2945e	3824	1720	[]	3	4.692092783460116
+19	trump	1330183703910297601	RT @152b320b-6eda-5645-91ea-75077fcdde5d: Trump gave them rooms at Trump Hotel? Really? This is QUID PRO QUO! https://t.co/9nnsXV5eLI	f3e32953-2321-5011-9a2a-c92088c0141b	3829	1723	[]	3	4.692092783460116

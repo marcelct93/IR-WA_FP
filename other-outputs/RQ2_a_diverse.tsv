@@ -1,0 +1,92 @@
+	query	id	text	user	likes	retweets	hashtags	cluster	score
+0	covid	1330157579541106689	@a681cf9f-b27d-530b-878c-d216518ba80c Covid Covid Covid Covid!	40af6ae1-a0f6-5889-8021-dd8fcbf59324	0	0	[]	9	2.4693048309852133
+1	covid	1330161590784692237	"RT @983740bc-166f-59c8-8415-006fb46494f0: Covid this covid that....
+Can we talk about ME now?????"	72d95870-ef1b-53c8-93a1-a95ba950bed7	0	0	[]	6	2.078229694571375
+2	covid	1330178293337907204	RT @22737630-63e4-5279-ad2c-fb13a3bc0bcb: Also, more GOP senators have COVID than believe in COVID.	bf1feef5-88f9-589d-bed5-f9b7b4541ac8	8326	1696	[]	3	1.6968674399999997
+3	covid	1330164597194682368	@ceee72ef-5014-54bc-8e7c-e88447d3074b There’s a world of difference between “testing positive for Covid” and actually having COVID.	2bd13d19-f81e-5d41-b176-3e2bd4756ea5	0	0	[]	7	1.5348743502138829
+4	covid	1330183694439616516	"This year turkeys will be voting for Covid.
+
+And Covid will be voting for Christmas."	dcb383c5-16b3-567b-b407-00c8a0e7d875	5	1	[]	10	1.5348743502138829
+5	covid	1330174790750056449	Ben Carson was 'desperately sick' with COVID, is now 'out of the woods' https://t.co/eWDeWrWZPI #FoxNews Covid has… https://t.co/QCSE28n9M7	8fc3d573-3854-5d47-bc38-73b02af07cbe	0	0	['FoxNews']	0	1.4695303098946668
+6	covid	1330157016782921729	@5f32f89b-bc0f-5ecc-a7c2-e600c3503336 But was he a covid death?	99f44ef4-6f5d-51d9-813c-89aa91ece1dd	0	0	[]	1	1.4695303098946668
+7	covid	1330178296349396997	@d28fd7dc-05b5-5268-a49d-065a9d74d911 Flu spread is prevented by the same measures as COVID and since it’s less transmissible than COVID, th… https://t.co/cGH72P9g7s	4b4f07bf-6929-5d62-9eac-f31b1e64151f	0	0	[]	11	1.3605206981254687
+8	covid	1330164612419948550	"ATTENTION G20:  No to Covid Loans, Cancel the Debt 
+@67c3c5d2-2f04-5392-8361-aa5df1dbca0c
+The business of lending continues. But Covid emergency… https://t.co/miQgiUzbVZ"	73edc35b-48c1-5523-937a-c648ff17965e	0	0	[]	11	1.3143878671683225
+9	covid	1330165418112245761	"ATTENTION G20:  No to Covid Loans, Cancel the Debt 
+@67c3c5d2-2f04-5392-8361-aa5df1dbca0c
+The business of lending continues. But Covid emergency… https://t.co/wg9LeN5sA0"	73edc35b-48c1-5523-937a-c648ff17965e	0	0	[]	11	1.3143878671683225
+10	covid	1330160102893096960	this covid vaccine smells great!	be22165c-ce18-5b85-80c4-dd9d9e1e6989	0	0	[]	5	1.2726505799999999
+11	covid	1330175325192515585	"How to stay safe during CoVid:
+
+https://t.co/GWGjBfWjT2"	7b62840b-6761-5c24-a8ee-de16ee7a1c8c	0	0	[]	11	1.2726505799999999
+12	covid	1330173884679720968	Covid is a scam of pandemic proportions.	f03be79b-2761-547a-a340-e13278d8262c	82773	15371	[]	8	1.2726505799999999
+13	covid	1330157601435373570	Pi will help the World out of covid!	efaf7a63-b182-5609-a211-902a56135514	314	8	[]	11	1.2726505799999999
+14	covid	1330169109363953671	@409b2fda-382f-5544-80dd-de42f1956fd2 Disapprove. I work on a Covid unit.	39f257f3-d5ba-5f9f-be9e-c9829ac1ef29	0	0	[]	11	1.1382932833938135
+15	covid	1330172792034242566	RT @2c08b7dc-c7a9-58ad-974a-ff7612d07a7a: Which is more deadly for COVID spread: https://t.co/v8NOvKx2hK	2c08b7dc-c7a9-58ad-974a-ff7612d07a7a	0	0	[]	11	1.1382932833938135
+16	covid	1330184237887213568	"RT @ecc59748-6e8d-5c3a-8ed5-416cd9589990: Cloth masks, disposable masks, most masks don't protect against Covid whether you wear them ""correctly"" or not. Covid is so…"	f2a10ca4-0c50-513b-aeec-f52198c832fa	0	0	[]	2	1.110860498300848
+17	covid	1330180396047331328	@d9ff9341-3a92-514a-b5e9-171765e9fc1a COVID is just dreadful. It changed the whole world 🤦🏾‍♀️	2d77385f-f678-5f3f-874d-5a3d9d8a632c	0	0	[]	11	1.0391148472856875
+18	covid	1330166040626679818	Everyone eat candies because it keep covid away	afc84700-8bc6-5a39-87b7-92106207ae11	0	0	[]	4	1.0391148472856875
+19	covid	1330184275237408768	@7f6c02b6-1eaa-5c76-acb7-b78c76ab93c9 @abc29b2c-e15e-5cf2-83bf-f5c826e4df6d Covid is a virus spreading in a racist nation.	9f1db68a-caa9-5533-9e7a-d09f62537407	0	0	[]	11	0.9620334115891745
+0	mask	1330166312287526915	Mask Up!	7a2f1e2e-384f-5615-971a-209548b07837	155	22	[]	2	13.47550681
+1	mask	1330168843629699075	JARED WHERE ARE THE MASKS AND PPE YOU SAID WERE YOURS??   NURSES, HEALTH WORKERS NEED THEM!  ARE you on the transit… https://t.co/eKmuvGiBQ0	9dcf5113-59a3-505b-a148-0759ae482a04	507	148	[]	11	4.261329414470986
+2	mask	1330157575300640771	@8cf18987-b5fd-54ee-a29a-e3a0067a9f92 Meanwhile, here in the US, I have to not infrequently remind patients in my ER to put the mask on when… https://t.co/PihgutM99z	4b9d03b3-3d8d-5092-919b-b99aab3998d4	0	0	[]	1	4.261329414470986
+3	mask	1330157553095991296	"RT @99175723-0316-551e-82e7-9f73f5dacb30: Congratulations @a681cf9f-b27d-530b-878c-d216518ba80c on your positive test for Covid
+
+How did mocking people wearing masks work out for you…"	65099585-9379-5aad-a563-fe14e2a31447	453625	113627	[]	7	4.06301817714991
+4	mask	1330178287847563267	RT @49f92b22-8784-5cae-8943-09e899ef37bc: Donald trump Jr. got COVID. But in his defense, it’s only because you can’t blow rails of coke while wearing a mask.	b5f7a13d-72d2-59c8-8bf9-162cdd594080	0	0	[]	3	3.7374331358707056
+5	mask	1330181205757726731	The only ppl i'm comfortable around without my mask are my family and miguel's family and a few friends/acquaintanc… https://t.co/FUlP92yVjJ	bff1a58b-5e5e-5665-a3c0-fa74fbae9a56	0	0	[]	6	3.7374331358707056
+6	mask	1330160434146664451	RT @1eadabba-ac36-51c2-985a-783924346919: Danish Study- Masks Provide no Benefit Except to Remind us that the flu has been weaponized by the Illuminati bankers to en…	6de65708-6843-52de-91e8-0a56ba0809c8	0	0	[]	11	3.6014806854399324
+7	mask	1330180383216906245	@3a4fd5e4-8d99-5914-8804-c47584df18d8 @9ca0b16d-75ce-532f-ab3e-503295cb1c79 (2) The primary purpose of the mask isn't to keep the Coronavirus out, but to keep it fr… https://t.co/0hf2sq2RTX	3e5a8a49-2d87-51b1-b897-838d1be33302	0	0	[]	4	3.6014806854399324
+8	mask	1330169072760344578	RT @f07ad4e3-599b-52ee-b65c-96778ffe520a: New Danish Study on effectiveness of masks amid the COVID pandemic found no significant difference in rate of catching th…	4c8899e2-624a-550b-a264-43cc10084886	0	0	[]	11	3.4793608971223087
+9	mask	1330169086014332928	"RT @2551c56e-9e8c-56d1-9c1b-f7681e020e3c: several months back, i posited that the low covid deaths in pac rim could not possibly be from lockdowns or masks.
+
+the di…"	678f06ad-54c0-5c15-84e9-ef617c5d9b18	0	0	[]	10	3.4793608971223087
+10	mask	1330166283384614914	"RT @2551c56e-9e8c-56d1-9c1b-f7681e020e3c: several months back, i posited that the low covid deaths in pac rim could not possibly be from lockdowns or masks.
+
+the di…"	b37838f7-626d-5e8d-b979-d176d5d2fe6c	0	0	[]	10	3.4793608971223087
+11	mask	1330168834926448640	"RT @2551c56e-9e8c-56d1-9c1b-f7681e020e3c: several months back, i posited that the low covid deaths in pac rim could not possibly be from lockdowns or masks.
+
+the di…"	c0e1fb83-1b79-5415-9609-33344dce3d23	0	0	[]	10	3.4793608971223087
+12	mask	1330160411639951360	RT @9fbb6dc3-3966-52e6-a0e1-91aed12d9a0a: In 1918, like today, many Americans were living under various phases of quarantines and face mask orders. Millions were mourn…	412e793d-a5fb-559c-9988-35502b6af408	0	0	[]	10	3.4793608971223087
+13	mask	1330160421312073729	"RT @2551c56e-9e8c-56d1-9c1b-f7681e020e3c: several months back, i posited that the low covid deaths in pac rim could not possibly be from lockdowns or masks.
+
+the di…"	e6f6c750-c492-5f15-9e05-d8471ff81618	0	0	[]	10	3.4793608971223087
+14	mask	1330160459173990402	RT @9fbb6dc3-3966-52e6-a0e1-91aed12d9a0a: In 1918, like today, many Americans were living under various phases of quarantines and face mask orders. Millions were mourn…	fa251073-2a25-599a-923a-815529cac6f0	0	0	[]	10	3.4793608971223087
+15	mask	1330164583928115207	RT @9fbb6dc3-3966-52e6-a0e1-91aed12d9a0a: In 1918, like today, many Americans were living under various phases of quarantines and face mask orders. Millions were mourn…	4c5b9cf7-8e1e-5a5a-b72f-de08ead3bf48	0	0	[]	10	3.4793608971223087
+16	mask	1330172764381208576	RT @f07ad4e3-599b-52ee-b65c-96778ffe520a: New Danish Study on effectiveness of masks amid the COVID pandemic found no significant difference in rate of catching th…	6514dcfb-53d1-5e38-80e6-c8dc93dc15e7	0	0	[]	11	3.4793608971223087
+17	mask	1330172775974248452	"RT @2551c56e-9e8c-56d1-9c1b-f7681e020e3c: several months back, i posited that the low covid deaths in pac rim could not possibly be from lockdowns or masks.
+
+the di…"	bd223763-d332-55d2-ad29-a1c0f4de3bec	0	0	[]	10	3.4793608971223087
+18	mask	1330160450256965640	"RT @10b52c78-9df8-5efe-8842-bfab0130816e: Analysis of masks used by train commuter
+
+Result:
+50% more than 100.000 bacterial strain
+70% staphylococcus
+75% molds and yeast…"	5ab6c7f2-028e-536c-84f9-56f77346f899	0	0	[]	11	3.3688767025
+19	mask	1330161545159069696	RT @278cf5fc-48c7-51d2-a412-c8cf306141e6: Gm Wake Tf Up And Smile &amp; Gett Dress Grab Da Bleach Bottle /Gloves/ Mask And Lettz Fight Diz “Corona Virus” 🦠 Man Da Rona Ha…	ec5895ad-e624-54e0-9199-c0847fb08280	0	0	[]	11	2.6951013620000004
+0	trump	1330165437414432768	tRump Vaccine for the tRump Virus	07834142-57cb-5655-8c9c-8e06deda5119	1450	98	[]	7	6.906573571023725
+1	trump	1330183654925070346	trumps words. It is what it is. 🤣	3101f384-5d0b-5fed-9e3a-4c4021649828	1	0	[]	3	5.981268165612753
+2	trump	1330183695333003266	RT @fa75fa83-40e9-5478-80f7-6881a399c373: After meeting w/ Pres. Trump, Michigan Republicans—including Speaker @3fe5b04c-8cda-527c-bbc3-b414d7a8651d—closed down the Trump Hotel bar last…	3bddad1d-62a7-59f5-930a-1420bf398d6e	1019	641	[]	0	4.368100662391534
+3	trump	1330184229150470145	This will upset Trump more than a quarter of a million dead Americans.	d591ebc7-be3c-5cf0-b387-f9fe39799921	371	34	[]	10	3.4532867855118625
+4	trump	1330181198845534212	G20 summit on the pandemic and Trump is golfing. Ok bitch	6d4ad072-6769-53f3-b6fd-4495fee2f81a	0	0	[]	11	3.1971223163058258
+5	trump	1330183634532392960	@efbf20c9-674d-5add-9500-16ba9f92bab3 #butitsnotdumbass Trump didn’t spread the coronavirus. The lockdown did.	02418b58-a098-524a-b8ec-f01091097cb8	0	0	['butitsnotdumbass']	11	3.1971223163058258
+6	trump	1330180371342888963	"Trump has done everything in his power to keep this
+#TrumpsKillerCovidVirus
+in a mass spread..."	1380348d-27a0-51a4-b796-90d74bfa8549	544	60	['TrumpsKillerCovidVirus']	6	2.9906340828063764
+7	trump	1330165427499118600	@c01b03d2-bfd1-5482-8b74-6792580daa6f @f91dc4ec-2fe0-505f-a048-da84e978dfeb Since YOU are an expert on how the pandemic should have been handled, what should Trump have done?… https://t.co/eysT811GwW	6159500a-4101-5e7e-bea0-90362d88b04d	0	0	[]	4	2.819596853333333
+8	trump	1330173916631998466	RT @1419f055-425b-5199-83fe-da3d98c37dcc: Trump and the Canadian Conservatives are intentionally interfering with controlling the spread of Covid-19. It’s sickening…	fc5aaac0-f76a-53c7-9cc2-92bd93184e60	0	0	[]	11	2.6749044419931174
+9	trump	1330164593268830209	"RT @bb733d3a-cf28-55fe-b9f5-d80af94a2d84: All The Cities Trump Had Rallies In, Are Now Having 
+The Greatest Spikes In Cases..
+#WearAMaskSaveALife
+#COVID19 #Supe…"	a749fd93-ddd4-5d1a-b085-9ff73efa8114	0	0	['WearAMaskSaveALife', 'COVID19']	1	2.6749044419931174
+10	trump	1330165422440800257	WHO Rejects Gilead Remdesivir Drug Trump Took to Treat COVID-19 | https://t.co/m9s4nJBdEk https://t.co/KFCleSPJMJ via @35af6418-4fed-5b27-8c23-ba2e9197ba4c	a59bc51a-60f7-5bc9-b160-0bf07fc87fdf	0	0	[]	11	2.441842503417333
+11	trump	1330166017318924288	RT @7200860f-ebfe-5366-85ca-42cd063be8fa: It is not surprising that Trump is doing nothing to stop the spread of a disease that’s killing thousands of Americans a w…	d996bf94-702e-5020-8e6a-3619bf32b0bb	9637	3156	[]	9	2.441842503417333
+12	trump	1330183689507139586	RT @666d2d9c-df88-5677-947d-bb15d9ca8287: I have to believe that some of the current horrific surge in COVID cases--2,000 dying each day--traces back to Trump's cha…	ea354b32-5b7b-5f3b-ab89-d60fe5aeef2f	0	0	[]	5	2.441842503417333
+13	trump	1330165478262706180	RT @8936fbe7-5fc2-5f12-92da-9789f70ee12d: Trump persuaded his evangelicals to disregard the coronavirus and made refusing to wear masks a point of pride. Imagin…	914fe71b-1793-58fa-9be8-a86601c5081a	0	0	[]	2	2.346046391730058
+14	trump	1330166010683531269	Trump participates in virtual G20 summit this weekend https://t.co/5kVhRQbYiQ END STUDENT LOAN DEBT SLAVERY RIGHT NOW	e5fc736c-b9f5-5c19-9e04-469d9c6db10f	0	0	[]	11	2.346046391730058
+15	trump	1330160140121726976	RT @2413e9d5-5281-5498-bfad-b1f0cd743b7b: We are not prepared for a pandemic. Trump has rolled back progress President Obama and I made to strengthen global health sec…	498f3f9a-0480-579b-a3f5-829530ee5dfe	4720	1696	[]	11	2.2607068701426916
+16	trump	1330175372554620928	RT @dc5bec71-7528-5bcd-93b2-0888176c3df6: Dear Trump COVID Task Force, are PSAs being taped to explain this to the general population? in how many languages? Wil…	8ca77822-7fb6-531b-919f-e707e647bf16	103	29	[]	11	2.2607068701426916
+17	trump	1330173898437038080	RT @dc5bec71-7528-5bcd-93b2-0888176c3df6: Dear Trump COVID Task Force, are PSAs being taped to explain this to the general population? in how many languages? Wil…	2dca82f2-b578-54bb-a939-e73dbda32cc0	93	25	[]	11	2.2607068701426916
+18	trump	1330165486303186949	RT @2413e9d5-5281-5498-bfad-b1f0cd743b7b: We are not prepared for a pandemic. Trump has rolled back progress President Obama and I made to strengthen global health sec…	8d002c14-3359-55dc-851f-66dae01da708	4720	1696	[]	11	2.2607068701426916
+19	trump	1330165506846969860	RT @7ca3b821-6d55-502c-8153-ccc487e4b176: Trump's remarks to G20 leaders at virtual summit were a version of his campaign speech, larded with false claims about th…	1f1f2d16-f1d7-586b-86a7-f1b9d9ce04e5	0	0	[]	11	2.2607068701426916
