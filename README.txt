@@ -1,5 +1,7 @@
+Please note that notebooks only work if the same file architecture as in this repository is preserved.
+
 						REQUIRED LIBRARIES
------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 json
 pandas
 numpy
@@ -40,15 +42,18 @@ igraph
 	Command:
 		python create_collection.py 1000
 
-	Where 1000 is the number of tweets to be retrieved (it can be any number, but it has to be multiple of 1000). You can modify the twitter tokens in create_collection.py.
+	Where 1000 is the number of tweets to be retrieved (it can be any number, but it has to be multiple of 1000). 
+	You can modify the twitter tokens in create_collection.py.
 
-	The collection will be stored in search-engine/data (the folder will be created) in files of the size of 1000 tweets (e.g. data/covid_0.json, data/covid_1.json, etc.). 
+	The collection will be stored in search-engine/data (the folder will be created) in files of the size of 1000 tweets 
+	(e.g. data/covid_0.json, data/covid_1.json, etc.). 
 
 ---------------------------------------------------------------------------------------------------------------
 (In the path search-egine/)
 2. Run the search engine:
 	Requirements:
-	You have to run before the create_collection script (or to load manually into search-engine/data a json file containing the tweets with the following filename: covid_0.json).	
+	You have to run before the create_collection script (or to load manually into search-engine/data a json file
+	containing the tweets with the following filename: covid_0.json).	
 
 	Command:
 		python search.py
