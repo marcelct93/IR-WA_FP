@@ -1,7 +1,7 @@
 Please note that notebooks only work if the same file architecture as in this repository is preserved.
 
 						REQUIRED LIBRARIES
----------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 json
 pandas
 numpy
