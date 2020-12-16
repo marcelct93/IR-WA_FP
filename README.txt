@@ -33,8 +33,6 @@ implicit
 igraph
 
 
-
-
 					INSTRUCTIONS TO RUN THE SEARCH ENGINE
 ---------------------------------------------------------------------------------------------------------------
 (In the path search-egine/)
